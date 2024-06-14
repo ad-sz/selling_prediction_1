@@ -1,0 +1,61 @@
+ID,Category,Name,Unit Price
+1,Electronics,Laptop,286.36
+2,Electronics,Smartphone,443.38
+3,Electronics,Tablet,366.3
+4,Electronics,Headphones,486.39
+5,Electronics,Camera,180.47
+6,Electronics,Smartwatch,133.49
+7,Electronics,E-reader,124.11
+8,Electronics,Game Console,172.31
+9,Electronics,VR Headset,421.47
+10,Electronics,Drone,373.0
+11,Home Appliances,Refrigerator,177.97
+12,Home Appliances,Microwave,409.2
+13,Home Appliances,Vacuum Cleaner,321.36
+14,Home Appliances,Washing Machine,175.81
+15,Home Appliances,Coffee Machine,488.53
+16,Home Appliances,Dishwasher,192.46
+17,Home Appliances,Toaster,472.73
+18,Home Appliances,Blender,448.75
+19,Home Appliances,Air Purifier,289.79
+20,Home Appliances,Electric Kettle,386.45
+21,Garden,Lawn Mower,319.8
+22,Garden,Grill,490.4
+23,Garden,Pruning Shears,182.53
+24,Garden,Shovel,119.01
+25,Garden,Garden Hose,80.36
+26,Garden,Sprinkler,252.06
+27,Garden,Hedge Trimmer,115.83
+28,Garden,Wheelbarrow,197.72
+29,Garden,Garden Fork,445.02
+30,Garden,Watering Can,327.29
+31,Electronics,Projector,498.57
+32,Electronics,Wireless Charger,347.48
+33,Electronics,Bluetooth Speaker,193.92
+34,Electronics,External Hard Drive,303.42
+35,Electronics,Digital Camera,106.29
+36,Electronics,Action Camera,67.45
+37,Electronics,Portable Gaming System,162.18
+38,Electronics,Smart Home Hub,436.04
+39,Electronics,Wearable Fitness Tracker,383.13
+40,Electronics,Noise Cancelling Headphones,398.86
+41,Home Appliances,Slow Cooker,142.42
+42,Home Appliances,Electric Grill,269.68
+43,Home Appliances,Rice Cooker,360.77
+44,Home Appliances,Steam Iron,385.8
+45,Home Appliances,Stand Mixer,308.99
+46,Home Appliances,Bread Maker,97.27
+47,Home Appliances,Electric Toothbrush,320.83
+48,Home Appliances,Hair Dryer,466.13
+49,Home Appliances,Air Fryer,172.82
+50,Home Appliances,Humidifier,267.02
+51,Garden,Patio Heater,264.27
+52,Garden,Leaf Blower,203.1
+53,Garden,Compost Bin,458.17
+54,Garden,Solar Light,497.68
+55,Garden,Bird Feeder,259.8
+56,Garden,Garden Bench,158.28
+57,Garden,Outdoor Fire Pit,298.7
+58,Garden,Patio Umbrella,391.96
+59,Garden,Garden Sculpture,174.01
+60,Garden,Rain Barrel,474.58
