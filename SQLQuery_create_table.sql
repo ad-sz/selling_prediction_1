@@ -2,14 +2,14 @@ create database data_base_1
 use data_base_1
 
 CREATE TABLE products (
-    id_product INT PRIMARY KEY IDENTITY(1,1),
+    id_product INT PRIMARY KEY,
     category_product VARCHAR(255),
     name_product VARCHAR(255),
     unit_price DECIMAL(10, 2)
 );
 
 CREATE TABLE sales_transactions (
-    id_transaction INT PRIMARY KEY IDENTITY(1,1),
+    id_transaction VARCHAR(50) PRIMARY KEY,
     name_customer VARCHAR(255),
     name_product VARCHAR(255),
     quantity_sold INT,
@@ -46,4 +46,13 @@ CREATE TABLE inventory_status (
     PRIMARY KEY (id_product, pallet_space)
 );
 
-select * from inventory_status
+
+select * from customers
+
+
+
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS sales_transactions;
+DROP TABLE IF EXISTS sellers;
+DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS inventory_status;

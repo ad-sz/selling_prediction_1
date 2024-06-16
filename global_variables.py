@@ -14,6 +14,3 @@ SELLERS_CSV_FILEPATH_NEW = 'D:/python_data/projekt/selling_prediction_1/selling_
 
 # filepatch to folder with csv files
 CSV_FILES_FILEPATH = 'D:/python_data/projekt/selling_prediction_1/selling_prediction_1/data_new'
-
-# # filepath to powershell file
-# POWERSHELL_FILEPATH = 'D:/python_data/projekt/products_management/sellers-data-engineering/data/converted_data_csv/data_to_sql_table.ps1'
