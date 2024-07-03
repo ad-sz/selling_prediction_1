@@ -29,11 +29,11 @@ model_fit = model.fit(disp=False)
 # prediction on testing group data
 predictions = model_fit.predict(start=len(train), end=len(train) + len(test) - 1, dynamic=False)
 
-# Ocena modelu
+# model evaluation
 mse = mean_squared_error(test, predictions)
 print(f"Mean Squared Error: {mse}")
 
-# Wykres porównujący rzeczywiste i przewidywane wartości
+# chart
 plt.figure(figsize=(10, 6))
 plt.plot(train.index, train, label='Train')
 plt.plot(test.index, test, label='Test')
